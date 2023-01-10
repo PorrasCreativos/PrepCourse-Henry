@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio del modulo2 del PrepCourse de Henry
+Esta es una prueba de creación de repositorio y edición desde una carpeta específica en mi disco local.
